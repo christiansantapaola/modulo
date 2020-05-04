@@ -5,3 +5,4 @@ It support:
 + GCD
 + modulo inverse
 + rsa encrypt and decrypt
++ Euclid algorithm
